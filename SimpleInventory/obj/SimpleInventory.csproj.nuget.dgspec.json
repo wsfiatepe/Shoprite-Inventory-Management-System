@@ -1,0 +1,114 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\M I R R O R\\Downloads\\SimpleInventory-master\\Shoprite\\SimpleInventory\\SimpleInventory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\M I R R O R\\Downloads\\SimpleInventory-master\\Shoprite\\SimpleInventory\\SimpleInventory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M I R R O R\\Downloads\\SimpleInventory-master\\Shoprite\\SimpleInventory\\SimpleInventory.csproj",
+        "projectName": "SimpleInventory",
+        "projectPath": "C:\\Users\\M I R R O R\\Downloads\\SimpleInventory-master\\Shoprite\\SimpleInventory\\SimpleInventory.csproj",
+        "packagesPath": "C:\\Users\\M I R R O R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M I R R O R\\Downloads\\SimpleInventory-master\\Shoprite\\SimpleInventory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\M I R R O R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "dependencies": {
+            "BarcodeLib": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "ControlzEx": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "ExcelNumberFormat": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "FastMember": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[2.4.9, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "PDFsharp-wpf": {
+              "target": "Package",
+              "version": "[1.50.5147, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IO.FileSystem.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿SimpleInventory
+0.10.0.0
+
+winexe
+C#
+.cs
+C:\Users\M I R R O R\Downloads\SimpleInventory-master\Shoprite\SimpleInventory\obj\Debug\net471\
+SimpleInventory
+none
+false
+TRACE;DEBUG;NETFRAMEWORK;NET471;
+C:\Users\M I R R O R\Downloads\SimpleInventory-master\Shoprite\SimpleInventory\App.xaml
+22-1570591373
+288024670
+85-145068777
+159-1759834108
+MainWindow.xaml;Views\AboutWindow.xaml;Views\AdjustQuantity.xaml;Views\ChangePassword.xaml;Views\CreateOrEditCurrency.xaml;Views\CreateOrEditItem.xaml;Views\CreateOrEditItemType.xaml;Views\CreateOrEditUser.xaml;Views\FinalizePurchase.xaml;Views\GenerateBarcodes.xaml;Views\HomeScreen.xaml;Views\Login.xaml;Views\ManageAppSettings.xaml;Views\ManageItems.xaml;Views\ManageUsers.xaml;Views\ScanAndPurchase.xaml;Views\ScanItems.xaml;Views\ViewCurrencies.xaml;Views\ViewItemSoldInfo.xaml;Views\ViewItemTypes.xaml;Views\ViewQuantityAdjustments.xaml;Views\ViewReports.xaml;
+
+False
+
